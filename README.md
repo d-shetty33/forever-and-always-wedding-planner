@@ -1,9 +1,5 @@
 # Wedding Planner Web App
 
-![Project Banner]
-
-![image](https://github.com/srutikarlakshmi/wedding-planner/assets/70003848/96e0d9b4-e4fd-486e-82a6-24d389eb0b5a)
-
 ## Introduction
 
 Welcome to our Wedding Planner Web App repository! This project was a collaborative effort between Dhanya Shetty and three talented friends: Srutika R Lakshmi, Krisha M, and Divya K. It marks our first-ever front-end project using HTML and CSS.
