@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Welcome to our Wedding Planner Web App repository! This project was a collaborative effort between Srutika R Lakshmi and three talented friends: Dhanya Shetty, Krisha M, and Divya K. It marks our first-ever front-end project using HTML and CSS.
+Welcome to our Wedding Planner Web App repository! This project was a collaborative effort between Dhanya Shetty and three talented friends: Srutika R Lakshmi, Krisha M, and Divya K. It marks our first-ever front-end project using HTML and CSS.
 
 ## Project Overview
 
