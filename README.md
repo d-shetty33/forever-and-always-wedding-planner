@@ -19,8 +19,4 @@ Our Wedding Planner Web App is designed to help you explore various wedding styl
 
 This project has been an incredible journey for us. It pushed us to dive deep into the world of CSS, and it was a fantastic opportunity to work collaboratively as a team. It's not just about the code; it's about the journey and the camaraderie built along the way.
 
-## Try It Out
-
-We invite you to check out our Wedding Planner Web App by clicking [here](https://d-shetty33.github.io/forever-and-always-wedding-planner/). Feel free to provide any feedback or share your thoughts. Your support means the world to us!
-
 **Happy coding!** 🌟
